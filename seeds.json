@@ -1,0 +1,33 @@
+{
+  "python_recommended": "3.13.2",
+  "generador_demanda": {
+    "SEMILLA": 123,
+    "NUMERO_ESCENARIOS": 8,
+    "NUMERO_SEMANAS": 104
+  },
+  "algoritmo_genetico_rutas_v0": {
+    "SEMILLA": 123
+  },
+  "tfm_optimizacion_validacion": {
+    "MODO_EJECUCION": "final",
+    "SEMILLA_SELECCION_SEMANAS": 123,
+    "SEMILLAS_GA": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "MILP_RANDOM_SEED": 123,
+    "SEMILLAS_SENSIBILIDAD": [
+      1,
+      2,
+      3
+    ]
+  }
+}
